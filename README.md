@@ -14,7 +14,7 @@ Blogify is a full-stack blogging web application built using **Node.js, Express.
 -  Responsive User Interface using Bootstrap
 -  MongoDB Database Integration
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML
